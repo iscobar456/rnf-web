@@ -8,4 +8,5 @@
   display: block;
   line-height: 32px;
   color: #fff;
+  width: min-content;
 }
